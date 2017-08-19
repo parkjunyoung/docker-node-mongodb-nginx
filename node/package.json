@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "park junyoung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongoose": "^4.11.2",
+    "mongodb": "^2.2.30",
+    "mongoose-auto-increment": "^5.0.1"
+  }
+}
+
+
