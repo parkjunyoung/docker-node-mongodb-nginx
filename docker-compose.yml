@@ -26,5 +26,5 @@ mongodb:
     # 컨테이너를 내렸다 올릴때 데이터베이스도 초기화
     # volume을 지정해서 데이터 유지
     volumes: 
-        - /data/db
+        - /home/ubuntu/data:/data/db
 
